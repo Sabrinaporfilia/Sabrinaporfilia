@@ -1,9 +1,12 @@
-## Bem-vindo(a) ao perfil de Sabrina Porfilia 😁
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADFF2F&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Sabrina,+Welcome+to+my+GitHub+profile.💘)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADFF2F&size=25&center=true&vCenter=true&width=1000&lines=I'm+Full+Stack+Java+Developer+Jr.💻)
+
+<img align="right" width=350 height=350 src=https://github.com/Sabrinaporfilia/Sabrinaporfilia/assets/101189470/78461282-bcda-44e4-b3c7-91e42fb9d110/>
 
  <div>
 <a href="https://github.com/sabrinaporfilia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinaporfilia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaporfilia&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinaporfilia&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaporfilia&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
 </div>
 <div style="display: inline_block"><br>
